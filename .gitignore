@@ -1,0 +1,15 @@
+# 仮想環境
+venv/
+.env/
+
+# データベース
+db.sqlite3
+
+# キャッシュと中間ファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# 静的ファイルやメディア
+staticfiles/
+media/
